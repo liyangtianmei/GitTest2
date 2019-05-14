@@ -4,5 +4,6 @@ public class Git {
 		System.out.println("eclipse test Git 01");
 		System.out.println("eclipse test Git 02");
 		System.out.println("eclipse test Git 03");
+		System.out.println("remote test Git 04");
 	}
 }
